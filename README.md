@@ -10,23 +10,23 @@
 
 # 
 
-# \- User login page
+\- User login page
 
-# \- User registration page
+\- User registration page
 
-# \- Home page
+\- Home page
 
-# \- Coffee shop items page
+\- Coffee shop items page
 
-# \- Buy/order page
+\- Buy/order page
 
-# \- MySQL database connection
+\- MySQL database connection
 
-# \- Save users in the users table
+\- Save users in the users table
 
-# \- Save orders in the orders table
+\- Save orders in the orders table
 
-# \- Save selected products in the purchases table
+\- Save selected products in the purchases table
 
 # 
 
@@ -34,15 +34,15 @@
 
 # 
 
-# \- Flutter
+\- Flutter
 
-# \- Dart
+\- Dart
 
-# \- MySQL
+\- MySQL
 
-# \- phpMyAdmin
+\- phpMyAdmin
 
-# \- mysql\_client package
+\- mysql\_client package
 
 # 
 
@@ -50,13 +50,13 @@
 
 # 
 
-# This project was developed as a mobile application using Flutter and Dart.  
+This project was developed as a mobile application using Flutter and Dart.  
 
-# The application allows users to register, login, view coffee products, select quantities, and save orders into a MySQL database.
+The application allows users to register, login, view coffee products, select quantities, and save orders into a MySQL database.
 
 # 
 
-# The code is based on the Flutter and MySQL examples from the course slides, especially the Pizza Shop example and the MySQL database connection example.
+The code is based on the Flutter and MySQL examples from the course slides, especially the Pizza Shop example and the MySQL database connection example.
 
 # 
 
@@ -64,15 +64,15 @@
 
 # 
 
-# 1\. Login Page
+1\. Login Page
 
-# 2\. Register Page
+2\. Register Page
 
-# 3\. Home Page
+3\. Home Page
 
-# 4\. Coffee Shop Page
+4\. Coffee Shop Page
 
-# 5\. Buy Page
+5\. Buy Page
 
 # 
 
@@ -80,11 +80,11 @@
 
 # 
 
-# \- users
+\- users
 
-# \- orders
+\- orders
 
-# \- purchases
+\- purchases
 
 # 
 
