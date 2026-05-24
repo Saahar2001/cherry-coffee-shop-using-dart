@@ -1,14 +1,11 @@
 # \# Cherry Coffee Ordering Application
 
-# 
 
 # Cherry Coffee Ordering Application is a Flutter mobile application for ordering coffee and desserts.
 
-# 
-
+#
 # \## Project Features
 
-# 
 
 \- User login page
 
@@ -32,7 +29,6 @@
 
 # \## Technologies Used
 
-# 
 
 \- Flutter
 
@@ -48,7 +44,6 @@
 
 # \## Project Description
 
-# 
 
 This project was developed as a mobile application using Flutter and Dart.  
 
@@ -62,7 +57,6 @@ The code is based on the Flutter and MySQL examples from the course slides, espe
 
 # \## Main Screens
 
-# 
 
 1\. Login Page
 
@@ -78,19 +72,13 @@ The code is based on the Flutter and MySQL examples from the course slides, espe
 
 # \## Database Tables
 
-# 
-
 \- users
 
 \- orders
 
 \- purchases
 
-# 
-
+#
 # \## Note
-
-# 
-
-# This project is for academic purposes.
+This project is for academic purposes.
 
